@@ -4,7 +4,7 @@
     "label": "Programmer",
     "image": "/me.webp",
     "email": "franbono2@gmail.com",
-    "phone": "722 432 000",
+    "phone": "+34 722 432 000",
     "url": "https://johndoe.com",
     "summary": "A summary of John Doe…",
     "location": {
@@ -34,7 +34,7 @@
       "url": "https://company.com",
       "startDate": "2013-01-01",
       "endDate": "2014-01-01",
-      "summary": "Description…",
+      "summary": "Lorem ipsum dolor sit amet consectetur adipiscing elit in, pharetra laoreet nec lacinia integer suscipit id, ornare fringilla eu nascetur ultrices eleifend curabitur. Augue elementum vestibulum tristique gravida hac erat integer auctor faucibus nam leo, velit feugiat tellus euismod ullamcorper pellentesque tempus malesuada scelerisque class habitant, magna dictum vivamus a eleifend varius vehicula quam porttitor aenean. Semper non praesent ornare vel viverra ante libero, auctor hac dui donec fusce nostra vulputate, tempus fermentum purus facilisi nulla platea.",
       "highlights": [
         "Started the company"
       ]
@@ -130,6 +130,29 @@
       "startDate": "2019-01-01",
       "endDate": "2021-01-01",
       "description": "Description...",
+      "isActive": true,
+      "highlights": [
+        "Won award at AIHacks 2016"
+      ],
+      "url": "https://project.com/"
+    },
+    {
+      "name": "Project",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Description...",
+      "isActive": true,
+      "highlights": [
+        "Won award at AIHacks 2016"
+      ],
+      "url": "https://project.com/"
+    },
+    {
+      "name": "Project",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Description...",
+      "isActive": false,
       "highlights": [
         "Won award at AIHacks 2016"
       ],
