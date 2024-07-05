@@ -1,18 +1,18 @@
 {
   "basics": {
     "name": "Francisco Maria Bono Navarro",
-    "label": "Programmer",
+    "label": "Software Engineer",
     "image": "/me.webp",
     "email": "franbono2@gmail.com",
     "phone": "+34 722 432 000",
-    "url": "https://johndoe.com",
-    "summary": "A summary of John Doe…",
+    "url": "",
+    "summary": "As a Software Engineer, I have worked in different enviroments. Currently, I work mostly with Kotlin, Typescript and Node.js. I have over 1 year of experience working with companies locally in Spain.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Calle Competa 16",
+      "postalCode": "29007",
+      "city": "Málaga",
+      "countryCode": "ESP",
+      "region": "España"
     },
     "profiles": [
       {
@@ -29,12 +29,23 @@
   },
   "work": [
     {
-      "name": "Company",
-      "position": "President",
+      "name": "VODAFONE INTELLIGENT SOLUTIONS ESPAÑA S.L.",
+      "position": "Solutions DevOps Engineer Intership",
       "url": "https://company.com",
-      "startDate": "2013-01-01",
-      "endDate": "2014-01-01",
-      "summary": "Lorem ipsum dolor sit amet consectetur adipiscing elit in, pharetra laoreet nec lacinia integer suscipit id, ornare fringilla eu nascetur ultrices eleifend curabitur. Augue elementum vestibulum tristique gravida hac erat integer auctor faucibus nam leo, velit feugiat tellus euismod ullamcorper pellentesque tempus malesuada scelerisque class habitant, magna dictum vivamus a eleifend varius vehicula quam porttitor aenean. Semper non praesent ornare vel viverra ante libero, auctor hac dui donec fusce nostra vulputate, tempus fermentum purus facilisi nulla platea.",
+      "startDate": "2023-09-01",
+      "endDate": "2024-07-01",
+      "summary": "Built and managed pipelines on Gitlab CI/CD, Developed a script for housekeeping inactive branches and send emails to their authors by Amazon SES, Implemented an Internal Developer Platform (IDP) with Backstage.io, Managed tasks with Jira and wrote documentation in Confluence. Technologies: Gitlab CI/CD, React, TypeScript, Backstage.io, AWS, Python, Jira, Confluence.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "ISOFT SANIDAD, S.A. (DEDALUS GROUP)",
+      "position": "External Intership: Frontend Developer",
+      "url": "https://company.com",
+      "startDate": "2023-03-01",
+      "endDate": "2023-06-01",
+      "summary": "Implemented new features in Angular with RxJs and NgRx, created an JWT service for user authenticacion, managed tasks with Trello. Technologies: Angular, Node.js, TypeScript, Trello",
       "highlights": [
         "Started the company"
       ]
@@ -94,12 +105,39 @@
   ],
   "skills": [
     {
-      "name": "Web Development",
+      "name": "Kotlin",
       "level": "Master",
       "keywords": [
-        "HTML",
-        "CSS",
-        "JavaScript"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Master",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Node.js",
+      "level": "Master",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "CI/CD",
+      "level": "Master",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "AWS",
+      "level": "Master",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Master",
+      "keywords": [
       ]
     }
   ],
@@ -126,37 +164,42 @@
   ],
   "projects": [
     {
-      "name": "Project",
+      "name": "MenPas",
       "startDate": "2019-01-01",
       "endDate": "2021-01-01",
-      "description": "Description...",
+      "description": "Mobile Application for Psychological Health",
       "isActive": true,
       "highlights": [
-        "Won award at AIHacks 2016"
+        "Kotlin",
+        "Android",
+        "Android Developer"
       ],
-      "url": "https://project.com/"
+      "url": "https://github.com/TFG-MenPas/MenPas"
     },
     {
-      "name": "Project",
+      "name": "Dead of Winter",
       "startDate": "2019-01-01",
       "endDate": "2021-01-01",
-      "description": "Description...",
-      "isActive": true,
-      "highlights": [
-        "Won award at AIHacks 2016"
-      ],
-      "url": "https://project.com/"
-    },
-    {
-      "name": "Project",
-      "startDate": "2019-01-01",
-      "endDate": "2021-01-01",
-      "description": "Description...",
+      "description": "Desktop Java Application inspired by the board game Dead of Winter: A Crossroads Game",
       "isActive": false,
       "highlights": [
-        "Won award at AIHacks 2016"
+        "Java",
+        "Full Stack Developer"
       ],
-      "url": "https://project.com/"
+      "url": "https://github.com/MiguelAngelCabanillas/Dead-Of-Winter"
+    },
+    {
+      "name": "Asuma",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Desktop Event Scheduling Application",
+      "isActive": false,
+      "highlights": [
+        "C#",
+        "Full Stack Developer",
+        "FTP Server"
+      ],
+      "url": "https://github.com/MiguelAngelCabanillas/Asuma"
     }
   ]
 }
