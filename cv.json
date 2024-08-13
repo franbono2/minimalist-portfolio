@@ -111,7 +111,7 @@
       ]
     },
     {
-      "name": "TypeScript",
+      "name": "JavaScript",
       "level": "Master",
       "keywords": [
       ]
@@ -163,6 +163,22 @@
     }
   ],
   "projects": [
+    {
+      "name": "Full Stack Open",
+      "startDate": "2024-08-01",
+      "endDate": "2025-01-01",
+      "description": "Deep Dive Into Modern Web Development",
+      "isActive": true,
+      "highlights": [
+        "React",
+        "Redux",
+        "Node.js",
+        "MongoDB",
+        "GraphQL",
+        "TypeScript"
+      ],
+      "url": "https://github.com/franbono2/fullstackopen"
+    },
     {
       "name": "MenPas",
       "startDate": "2019-01-01",
