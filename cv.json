@@ -6,7 +6,7 @@
     "email": "franbono2@gmail.com",
     "phone": "+34 722 432 000",
     "url": "",
-    "summary": "As a Software Engineer, I have worked in different enviroments. I have successfully taken multiple projects from 0 to 1. Currently, I work mostly with Kotlin, Typescript, React and Node.js. I have over 1 year of experience working with companies locally in Spain.",
+    "summary": "Software Engineer with experience in Full Stack development, specializing in Typescript, React and Node.js. I have taking projects from initial concepts to fully deployed products. I excel in code quality, collaboration within multidisciplinary teams and passionate about solving problems with elegant technological solutions.",
     "location": {
       "address": "Calle Competa 16",
       "postalCode": "29007",
@@ -28,6 +28,14 @@
     ]
   },
   "work": [
+    {
+      "name": "BASECRM SOLUTIONS S.L.",
+      "position": "Full Stack Developer",
+      "url": "https://company.com",
+      "startDate": "2024-10-15",
+      "endDate": null,
+      "summary": "Designed and implemented new medical features using Java, improving CRM efficiency, Refactored legacy code, enhancing maintainability and reducing errors, Developed new screens in React for an updated frontend version, optimizing user experience, Automated tasks and conducted data analysis using Python scripts, Coordinated tasks via Jira"
+    },
     {
       "name": "VODAFONE INTELLIGENT SOLUTIONS ESPAÑA S.L.",
       "position": "Solutions DevOps Engineer Intership",
@@ -105,7 +113,7 @@
   ],
   "skills": [
     {
-      "name": "Kotlin",
+      "name": "TypeScript",
       "level": "Master",
       "keywords": [
       ]
@@ -129,13 +137,19 @@
       ]
     },
     {
-      "name": "AWS",
+      "name": "Java",
       "level": "Master",
       "keywords": [
       ]
     },
     {
       "name": "React",
+      "level": "Master",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "GraphQL",
       "level": "Master",
       "keywords": [
       ]
